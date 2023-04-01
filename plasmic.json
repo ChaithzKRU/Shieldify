@@ -1,0 +1,186 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "js",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+  },
+  "images": {
+    "scheme": "files",
+    "publicDir": "../../public",
+    "publicUrlPrefix": "/static/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "iUsP5zCETeSVKsK2jZHQGG",
+      "projectApiToken": "46CiNSPxILqHNmARPttbOxomY2JvJccLlIhlWxOHOInABzFRZCcvzLnRCtnMPmymMd6IN5AzsrFT6kGAmCg",
+      "projectName": "Shieldify - Coming Soon",
+      "version": "latest",
+      "cssFilePath": "plasmic/shieldify_coming_soon/plasmic_shieldify_coming_soon.module.css",
+      "components": [
+        {
+          "id": "IIErH2i67RBr",
+          "name": "ComingSoon",
+          "type": "managed",
+          "projectId": "iUsP5zCETeSVKsK2jZHQGG",
+          "renderModuleFilePath": "plasmic/shieldify_coming_soon/PlasmicComingSoon.jsx",
+          "importSpec": {
+            "modulePath": "ComingSoon.jsx"
+          },
+          "cssFilePath": "plasmic/shieldify_coming_soon/PlasmicComingSoon.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "JSW09KUny-Q",
+          "name": "Button",
+          "type": "managed",
+          "projectId": "iUsP5zCETeSVKsK2jZHQGG",
+          "renderModuleFilePath": "plasmic/shieldify_coming_soon/PlasmicButton.jsx",
+          "importSpec": {
+            "modulePath": "Button.jsx"
+          },
+          "cssFilePath": "plasmic/shieldify_coming_soon/PlasmicButton.module.css",
+          "scheme": "blackbox",
+          "componentType": "component",
+          "plumeType": "button"
+        },
+        {
+          "id": "tUnhHDXVjmN",
+          "name": "TextInput",
+          "type": "managed",
+          "projectId": "iUsP5zCETeSVKsK2jZHQGG",
+          "renderModuleFilePath": "plasmic/shieldify_coming_soon/PlasmicTextInput.jsx",
+          "importSpec": {
+            "modulePath": "TextInput.jsx"
+          },
+          "cssFilePath": "plasmic/shieldify_coming_soon/PlasmicTextInput.module.css",
+          "scheme": "blackbox",
+          "componentType": "component",
+          "plumeType": "text-input"
+        }
+      ],
+      "icons": [
+        {
+          "id": "WJpIByELE",
+          "name": "LogoIcon",
+          "moduleFilePath": "plasmic/shieldify_coming_soon/icons/PlasmicIcon__Logo.jsx"
+        },
+        {
+          "id": "PVVVG8px0U",
+          "name": "PlaceholderIcon",
+          "moduleFilePath": "plasmic/shieldify_coming_soon/icons/PlasmicIcon__Placeholder.jsx"
+        },
+        {
+          "id": "bbuKt-tv16",
+          "name": "FrameIcon",
+          "moduleFilePath": "plasmic/shieldify_coming_soon/icons/PlasmicIcon__Frame.jsx"
+        },
+        {
+          "id": "I-5U6NPstU",
+          "name": "Frame2Icon",
+          "moduleFilePath": "plasmic/shieldify_coming_soon/icons/PlasmicIcon__Frame2.jsx"
+        },
+        {
+          "id": "-bG5JT9G86",
+          "name": "Frame3Icon",
+          "moduleFilePath": "plasmic/shieldify_coming_soon/icons/PlasmicIcon__Frame3.jsx"
+        },
+        {
+          "id": "gKo77wNYF",
+          "name": "IconIcon",
+          "moduleFilePath": "plasmic/shieldify_coming_soon/icons/PlasmicIcon__Icon.jsx"
+        },
+        {
+          "id": "_6_zLEVNMV6",
+          "name": "ChecksvgIcon",
+          "moduleFilePath": "plasmic/shieldify_coming_soon/icons/PlasmicIcon__Checksvg.jsx"
+        },
+        {
+          "id": "Ae3Hja1Khyy",
+          "name": "Icon2Icon",
+          "moduleFilePath": "plasmic/shieldify_coming_soon/icons/PlasmicIcon__Icon2.jsx"
+        },
+        {
+          "id": "HsUSF2pni7F",
+          "name": "SearchsvgIcon",
+          "moduleFilePath": "plasmic/shieldify_coming_soon/icons/PlasmicIcon__Searchsvg.jsx"
+        }
+      ],
+      "images": [
+        {
+          "id": "6PCvg8Ixvt",
+          "name": "shield",
+          "filePath": "plasmic/shieldify_coming_soon/images/shield.svg"
+        },
+        {
+          "id": "DetLJRoFu5",
+          "name": "right decorator",
+          "filePath": "plasmic/shieldify_coming_soon/images/rightDecorator.svg"
+        },
+        {
+          "id": "Z1IiOMJbVC",
+          "name": "left decorator",
+          "filePath": "plasmic/shieldify_coming_soon/images/leftDecorator.svg"
+        },
+        {
+          "id": "hp9PWRHGF",
+          "name": "image",
+          "filePath": "plasmic/shieldify_coming_soon/images/image.svg"
+        },
+        {
+          "id": "vPBMeyIVw",
+          "name": "image 2",
+          "filePath": "plasmic/shieldify_coming_soon/images/image2.svg"
+        },
+        {
+          "id": "BhaQFt-1-Z",
+          "name": "image 3",
+          "filePath": "plasmic/shieldify_coming_soon/images/image3.svg"
+        },
+        {
+          "id": "emThu5c8sr",
+          "name": "image 4",
+          "filePath": "plasmic/shieldify_coming_soon/images/image4.svg"
+        }
+      ],
+      "indirect": false,
+      "globalContextsFilePath": "",
+      "codeComponents": [
+        {
+          "id": "OYFTjaE055",
+          "name": "PlasmicHead",
+          "componentImportPath": "@plasmicapp/react-web"
+        },
+        {
+          "id": "NEBJspIddy",
+          "name": "Fetcher",
+          "componentImportPath": "@plasmicapp/react-web/lib/data-sources"
+        }
+      ]
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "ff4A5eCsPFodX",
+        "name": "Screen",
+        "projectId": "iUsP5zCETeSVKsK2jZHQGG",
+        "contextFilePath": "plasmic/shieldify_coming_soon/PlasmicGlobalVariant__Screen.jsx"
+      }
+    ]
+  },
+  "wrapPagesWithGlobalContexts": true,
+  "cliVersion": "0.1.249",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.249/dist/plasmic.schema.json"
+}
