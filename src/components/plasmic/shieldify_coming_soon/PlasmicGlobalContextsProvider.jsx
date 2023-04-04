@@ -14,7 +14,7 @@ export default function GlobalContextsProvider(props) {
       css={
         embedCssProps && "css" in embedCssProps
           ? embedCssProps.css
-          : "/* CSS snippet */\n\n-webkit-font-smoothing: antialiased;"
+          : "/* CSS snippet */\n\n<style>\n  body {\n    -webkit-font-smoothing: antialiased;\n  }\n</style>\n"
       }
     >
       {children}

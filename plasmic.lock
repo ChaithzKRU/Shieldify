@@ -125,13 +125,13 @@
         },
         {
           "assetId": "iUsP5zCETeSVKsK2jZHQGG",
-          "type": "projectCss",
-          "checksum": "1d6b30cbf1f43c633a33a822b789eadc"
+          "checksum": "5fa9a255b14cb4034266888169ff14d5",
+          "type": "globalContexts"
         },
         {
           "assetId": "iUsP5zCETeSVKsK2jZHQGG",
-          "checksum": "5f59d9efba58f16b20c52b9756ced5d1",
-          "type": "globalContexts"
+          "type": "projectCss",
+          "checksum": "1d6b30cbf1f43c633a33a822b789eadc"
         }
       ],
       "codegenVersion": "0.0.1"

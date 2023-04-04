@@ -186,7 +186,8 @@
           "name": "EmbedCss",
           "componentImportPath": "@plasmicpkgs/plasmic-embed-css"
         }
-      ]
+      ],
+      "jsBundleThemes": []
     }
   ],
   "globalVariants": {
